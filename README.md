@@ -26,9 +26,9 @@ Display User Data: Retrieve user information through API endpoints.
   <li>Install dependencies:<a href=''>npm install</a> </li>
   <li>
 Create a logs folder in the root directory:<a href=''>mkdir logs</a> </li>
-  <li>Set up environment variables: Create a .env file based on the provided <span style="background-color:gray">.env.example.</span></li>
-  <li>Start the server: `npm run dev` </li>
-  <li>Open the app in your browser: http://localhost:3000</li>
+  <li>Set up environment variables: Create a .env file based on the provided ### `.env.example.`</li>
+  <li>Start the server: ###`npm run dev` </li>
+  <li>Open the app in your browser: ### `http://localhost:3000`</li>
   
 
 
