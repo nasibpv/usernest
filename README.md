@@ -1,6 +1,6 @@
 # Client Side - User Nest 
 
-##Introduction
+## Introduction
 
 Welcome to the User Nest! This User Nest is designed to handle user data and provide endpoints for displaying user information
 
@@ -17,88 +17,27 @@ Welcome to the User Nest! This User Nest is designed to handle user data and pro
 
 Display User Data: Retrieve user information through API endpoints.
 
-#Getting Started
+## Screenshot
+
+<div align="center">
+    <img src="https://i.postimg.cc/c1KQ5YcG/Screenshot-70.png" width="400px"</img> 
+    <img src="https://i.postimg.cc/TY6pqW79/Screenshot-71.png" width="400px"</img> 
+    <img src="https://i.postimg.cc/1z2zggVD/Screenshot-72.png" width="400px"</img> 
+</div>
 
 ## Installation
 ### To run Eduventure locally, follow these steps:
-<ol>
-  <li>Clone the repository: git clone  <a href=''>https://github.com/malik-dinar/eduventure_client.git</a></li>
-  <li>Install dependencies:
-    ### `npm install` </li>
-  <li>
-Create a logs folder in the root directory:<a href=''>mkdir logs</a> </li>
-  <li>Set up environment variables: Create a .env file based on the provided  `.env.example`. </li>
-  <li>Start the server: `npm run dev` </li>
-  <li>Open the app in your browser: ### `http://localhost:3000`</li>
-  
+1. Clone the repository: git clone  <a href='https://github.com/nasibpv/usernest/tree/master'>`https://github.com/nasibpv/usernest/tree/master`</a>
+2. Install dependencies: `npm install`
+3. Create a logs folder in the root directory: `mkdir logs`
+4. Set up environment variables: Create a .env file based on the provided  `.env.example`.
+5. Start the server: `npm run dev`
+6. Open the app in your browser: `http://localhost:3000`
 
+## Acknowledgements
+ <li>This project was inspired by the love for learning and the desire to create a platform for knowledge sharing.</li>
 
+## Contact
 
-</ol>
+For any inquiries or support, please reach out to our team at <a href='mailto:nasibnpvgmail.com'> nasibnpvgmail.com<a/> 
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
