@@ -1,4 +1,6 @@
-###<h3>Technologies Used</h3>
+# Client Side - User Nest 
+
+## Technologies Used
 <ul>
   <li>HTML</li>
   <li>CSS3</li>
@@ -6,7 +8,7 @@
   <li>React</li>
   <li>React Router</li>
 </ul>
-# Client Side - User Nest 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
