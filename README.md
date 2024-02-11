@@ -17,6 +17,18 @@ Welcome to the User Nest! This User Nest is designed to handle user data and pro
 
 Display User Data: Retrieve user information through API endpoints.
 
+#Getting Started
+
+## Installation
+<ol>
+  <li>Clone this repository to your local machine:
+  <a href=''>git clone https://github.com/yourusername/user-management-api.git
+</a>
+
+</li>
+  <li></li>
+</ol>
+
 ## Available Scripts
 
 In the project directory, you can run:
