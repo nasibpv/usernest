@@ -23,7 +23,8 @@ Display User Data: Retrieve user information through API endpoints.
 ### To run Eduventure locally, follow these steps:
 <ol>
   <li>Clone the repository: git clone  <a href=''>https://github.com/malik-dinar/eduventure_client.git</a></li>
-  <li>Install dependencies:<a href=''>npm install</a> </li>
+  <li>Install dependencies:
+    ### `npm install` </li>
   <li>
 Create a logs folder in the root directory:<a href=''>mkdir logs</a> </li>
   <li>Set up environment variables: Create a .env file based on the provided  `.env.example`. </li>
