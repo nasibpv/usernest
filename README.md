@@ -1,1 +1,2 @@
-# feacture
+# features
+
