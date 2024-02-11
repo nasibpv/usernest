@@ -22,8 +22,7 @@ Display User Data: Retrieve user information through API endpoints.
 ## Installation
 <ol>
   <li>Clone this repository to your local machine:
-  <a href=''>git clone https://github.com/yourusername/user-management-api.git
-</a>
+  <a href='https://nasibpv.github.io/usernest/'>https://nasibpv.github.io/usernest/</a>
 
 </li>
   <li></li>
