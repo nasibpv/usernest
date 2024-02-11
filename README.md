@@ -1,5 +1,9 @@
 # Client Side - User Nest 
 
+##Introduction
+
+Welcome to the User Nest! This User Nest is designed to handle user data and provide endpoints for displaying user information
+
 ## Technologies Used
 <ul>
   <li>HTML</li>
@@ -9,8 +13,9 @@
   <li>React Router</li>
 </ul>
 
+## Features
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Display User Data: Retrieve user information through API endpoints.
 
 ## Available Scripts
 
