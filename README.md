@@ -20,12 +20,19 @@ Display User Data: Retrieve user information through API endpoints.
 #Getting Started
 
 ## Installation
+### To run Eduventure locally, follow these steps:
 <ol>
-  <li>Clone this repository to your local machine:
-  <a href='https://nasibpv.github.io/usernest/'>https://nasibpv.github.io/usernest/</a>
+  <li>Clone the repository: git clone  <a href=''>https://github.com/malik-dinar/eduventure_client.git</a></li>
+  <li>Install dependencies:<a href=''>npm install</a> </li>
+  <li>
+Create a logs folder in the root directory:<a href=''>mkdir logs</a> </li>
+  <li>Set up environment variables: Create a .env file based on the provided <span style={background-color:"gray"}>.env.example.</span></li>
+  <li>Start the server: npm run dev</li>
+  <li>Open the app in your browser: http://localhost:3000</li>
+  
 
-</li>
-  <li></li>
+
+
 </ol>
 
 ## Available Scripts
