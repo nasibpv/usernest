@@ -1,0 +1,17 @@
+.users{
+    padding: 15px;
+    min-height: 89vh;
+    background-color: rgb(198, 196, 196);
+}
+.table-heading{
+    padding: 10px 5px;
+}
+.loading{
+    margin: 50px;
+}
+@media  screen and (max-width:550px){
+    .user-details{
+        display: flex;
+        overflow-y: scroll;
+    }
+ }

@@ -1,0 +1,23 @@
+.footer{
+    background-color: rgb(190, 190, 190);
+    height: auto;
+    width: 100%;
+}
+.footer-bottom{
+    background: black;
+    max-width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+.footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    margin: 0;
+    color: #bcb9b9;
+}
+.footer-bottom span{
+    text-transform: uppercase;
+    opacity: .5;
+    font-weight: 200;
+}   

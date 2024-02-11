@@ -1,0 +1,123 @@
+.home{
+    background-color:rgba(187, 189, 189, 0.768) ;
+}
+.carousel{
+    height: auto;
+}
+.carousel h5{
+    background: linear-gradient(to right, rgba(255, 215, 255, 0) 0%, rgb(0, 255, 255) 20%, rgba(255, 255, 255, 0) 61%), linear-gradient(rgb(97, 183, 217) 52%, rgb(224, 246, 255) 60%, rgb(78, 99, 132) 61%); /* you can change the colors based on your preference */
+        background-clip: text;
+        -webkit-background-clip: text; /*for browsers compatibility */
+        -webkit-text-fill-color: transparent; 
+        animation: wave 2000ms ease alternate infinite;
+        transition: all 0.4s ease;
+}
+.carousel  p{
+  position: relative;
+  animation-name: texts;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes texts {
+    0%   {left:240px; top:0px;}
+    50%  { left:0px; top:0px;}
+}
+
+.card-content{
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+}
+.card-row{
+    display: flex;
+    justify-content: space-between;
+    row-gap: 5px;
+      /* gap: 1px; */
+      padding:0px;
+      margin: 0;
+}
+
+.about{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 8px;
+    background: linear-gradient(
+      to bottom,
+      pink 0%,
+      rgb(246, 209, 216) 45% ,      
+      rgb(187, 240, 240) 72%,
+      rgb(247, 250, 250) 100%
+    );
+}
+.about-content{
+    text-align: center;
+    padding: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+}
+.left,.right{
+    width: 50%;
+    height: auto;
+    text-align: start;
+    padding: 15px;
+    overflow-wrap: break-word;
+}
+.left{
+    /* box-sizing: border-box; */
+    background-image: url('https://i.postimg.cc/BZyLyv9D/user-management6.avif');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    padding: 5px;
+    border-radius: 9px;
+}
+/* .card-body{
+    min-height:343.3px;
+} */
+.card-body:hover{
+    border-radius: 5px;
+    box-shadow: 1px 3px 8px 2px;
+    transform: scale(1.011);    
+
+}
+.cards{
+    min-height: 16rem;
+    background-color: rgb(224, 255, 255);
+}
+
+@media only screen and (min-width:1200px){
+    .d-block{
+        max-height: 450px;
+    }
+}
+@media only screen and (min-width:766px){
+    .cards{
+        min-height:22rem;
+    }
+}
+@media only screen and (max-width:520px){
+    .cards{
+        min-height:19rem;
+    }
+}
+@media only screen and (max-width:415px){
+    .cards{
+        min-height:22rem;
+    }
+}
+@media only screen and (max-width:332px){
+    .cards{
+        min-height:27rem;
+    }
+}
+@keyframes wave {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 50vw 10px;
+    }
+  }
